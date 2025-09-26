@@ -1,7 +1,6 @@
 # Akbank DL Bootcamp Projesi — GTSRB Trafik İşaretleri
 
-Bu repo, Kaggle üzerinde geliştirdiğim derin öğrenme çalışmasının GitHub sürümüdür. 
-Notebook odaklı, tekrarlanabilir ve anlaşılır bir yapı hedeflenmiştir.
+Bu repo, Kaggle üzerinde geliştirdiğim Akbank Derin Öğrenme Bootcamp kapsamında  derin öğrenme çalışmasının GitHub sürümüdür. 
 
 **Kaggle Notebook:** [https://www.kaggle.com/code/haticehsnazdemir/akbank-derin-renme-bootcamp-projesi](https://www.kaggle.com/code/haticehsnazdemir/akbank-derin-renme-bootcamp-projesi)
 
