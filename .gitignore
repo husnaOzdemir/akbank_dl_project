@@ -1,30 +1,16 @@
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.py[cod]
-*$py.class
+*.log
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb_conv
 
 # Data & models
 data/
-models/*.h5
-models/*.hdf5
-models/*.keras
-models/*.pt
-models/*.pth
-
-# Logs
+models/
 logs/
-*.log
+reports/figures/*.tmp
 
 # OS
 .DS_Store
-
-# Envs
-.env
-.venv/
-venv/
-ENV/
-env/
