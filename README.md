@@ -3,7 +3,8 @@
 Bu repo, Kaggle üzerinde geliştirdiğim Akbank Derin Öğrenme Bootcamp kapsamında  derin öğrenme çalışmasının GitHub sürümüdür. 
 
 **Kaggle Notebook:** [https://www.kaggle.com/code/haticehsnazdemir/akbank-derin-renme-bootcamp-projesi](https://www.kaggle.com/code/haticehsnazdemir/akbank-derin-renme-bootcamp-projesi)
-**Veri Seti Linli:** [https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-preprocessed](https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-preprocessed)
+
+**Veri Seti Linki:** [https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-preprocessed](https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-preprocessed)
 
 ---
 
